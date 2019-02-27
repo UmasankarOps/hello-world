@@ -1,2 +1,2 @@
-<h1> Hello, Devops not so easyyy !!! </h1>
+<h1> Hello, Devops so easyyy !!! </h1>
 
